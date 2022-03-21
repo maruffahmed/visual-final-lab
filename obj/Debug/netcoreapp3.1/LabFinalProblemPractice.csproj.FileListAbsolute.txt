@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LabFinalProblemPractice\bin\Debug\netcoreapp3.1\LabFinalProblemPractice.exe
+C:\Users\User\source\repos\LabFinalProblemPractice\bin\Debug\netcoreapp3.1\LabFinalProblemPractice.deps.json
+C:\Users\User\source\repos\LabFinalProblemPractice\bin\Debug\netcoreapp3.1\LabFinalProblemPractice.runtimeconfig.json
+C:\Users\User\source\repos\LabFinalProblemPractice\bin\Debug\netcoreapp3.1\LabFinalProblemPractice.runtimeconfig.dev.json
+C:\Users\User\source\repos\LabFinalProblemPractice\bin\Debug\netcoreapp3.1\LabFinalProblemPractice.dll
+C:\Users\User\source\repos\LabFinalProblemPractice\bin\Debug\netcoreapp3.1\LabFinalProblemPractice.pdb
+C:\Users\User\source\repos\LabFinalProblemPractice\obj\Debug\netcoreapp3.1\LabFinalProblemPractice.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LabFinalProblemPractice\obj\Debug\netcoreapp3.1\LabFinalProblemPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LabFinalProblemPractice\obj\Debug\netcoreapp3.1\LabFinalProblemPractice.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LabFinalProblemPractice\obj\Debug\netcoreapp3.1\LabFinalProblemPractice.AssemblyInfo.cs
+C:\Users\User\source\repos\LabFinalProblemPractice\obj\Debug\netcoreapp3.1\LabFinalProblemPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LabFinalProblemPractice\obj\Debug\netcoreapp3.1\LabFinalProblemPractice.dll
+C:\Users\User\source\repos\LabFinalProblemPractice\obj\Debug\netcoreapp3.1\LabFinalProblemPractice.pdb
+C:\Users\User\source\repos\LabFinalProblemPractice\obj\Debug\netcoreapp3.1\LabFinalProblemPractice.genruntimeconfig.cache
